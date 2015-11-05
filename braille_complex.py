@@ -1,0 +1,50 @@
+comp_cont_1 = {'about': 65,'above': 65,'according': 65,'across': 65,'afternoon': 65, 
+	'afterward': 65, 'again': 65, 'against': 65,'almost': 65,'already': 65, 'also': 65, 
+	'although': 65,'always': 65, 'altogether': 65, 'because': 50, 'before': 50, 
+	'behind': 50, 'below': 50, 'beneath': 50, 'beside': 50, 'between': 50, 'beyond': 50, 
+	'blind': 66, 'braille': 66,'by': 48, 'children': 42, 'could': 67, 'conceive': 51, 
+	'conceiving': 51, 'deceive': 68, 'declare': 68, 'declaring': 68, 'either': 69, 
+	'enough': 53, 'father': 34, 'first': 70, 'friend': 70, 'great': 71, 'good': 71, 
+	'herself': 72, 'him': 72, 'himself': 72, 'immediate': 73, 'its': 88, 'itself': 88, 
+	'letter': 76, 'little': 76, 'many': 95, 'mother': 34, 'much': 77, 'must': 77, 
+	'myself': 77,'name': 34, 'necessary': 78,'neither': 78, "o'clock": 79, 'one': 34, 
+	'oneself': 34, 'ought': 34, 'ourselves': 79, 'paid': 80, 'part': 34, 'perceive': 80, 
+	'perhaps': 80, 'question': 34, 'quick': 81, 'receive': 82, 'receiving': 82, 
+	'rejoice': 82, 'rejoicing': 82, 'right': 34, 'said': 83, 'should': 63, 'some': 34, 
+	'spirit': 95, 'still': 47, 'their': 95, 'themselves': 33, 'there': 34, 'these': 94, 
+	'those': 94, 'through': 34, 'thyself': 63, 'time': 34, 'today': 84, 'together': 84, 
+	'tomorrow': 84, 'tonight': 84, 'under': 34, 'upon': 94, 'where': 34, 'whose': 94, 
+	'word': 94, 'work': 34, 'world': 95, 'would': 87, 'young': 34, 'your': 89, 
+	'yourself': 89, 'yourselves': 89}
+
+comp_cont_2 = {'about': 66,'above': 66,'according': 67,'across': 67,'afternoon': 70,
+	'afterward': 70, 'again': 66, 'against': 71, 'almost': 76, 'already': 76, 'also': 76, 
+	'although': 76,'altogether': 76, 'always': 76, 'because': 67, 'before': 70, 
+	'behind': 72, 'below': 76, 'beneath': 78, 'beside': 83, 'between': 84, 'beyond': 89, 
+	'blind': 76, 'braille': 82, 'children': 78,'could': 68, 'conceive': 67, 
+	'conceiving': 67, 'deceive': 67, 'first': 47, 'declare': 67, 'declaring': 67, 
+	'either': 73, 'father': 70, 'friend': 82, 'good': 68, 'great': 82, 'herself': 93, 
+	'him': 77, 'himself': 77, 'immediate': 77, 'its': 83, 'itself': 70, 'letter': 82, 
+	'little': 76, 'many': 77, 'mother': 77, 'much': 67, 'must': 83, 'myself': 89, 
+	'name': 78,'necessary': 69, "o'clock": 54, 'one': 79, 'oneself': 79, 'ought': 92, 
+	'ourselves': 85, 'paid': 68,'part': 80, 'perceive': 69, 'perhaps': 69, 'question': 81, 
+	'quick': 75, 'receive': 67,'receiving': 67, 'rejoice': 74, 'rejoicing': 74, 
+	'right': 82, 'said': 68, 'should': 68, 'some': 83, 'spirit': 83, 'such': 42, 
+	'their': 21, 'themselves': 77, 'there': 21, 'these': 21, 'those': 63, 
+	'through': 63, 'thyself': 70,'time': 84, 'today': 68, 'together': 71, 'tomorrow': 76, 
+	'tonight': 78, 'under': 85, 'upon': 85, 'where': 58, 'whose': 58, 'word': 87, 
+	'work': 87, 'world': 87, 'would': 68, 'young': 89, 'your': 82, 'yourself': 82, 
+	'yourselves': 82}
+
+comp_cont_3 = {'above': 86,'across': 82,'afternoon': 78,'afterward': 87, 'against': 47, 
+	'almost': 77, 'already': 82, 'although': 63, 'altogether': 84, 'always': 87, 
+	'braille': 76, 'conceive': 86, 'conceiving': 86, 'deceive': 86, 'declare': 76, 
+	'declaring': 76, 'great': 84,'herself': 70, 'himself': 70, 'immediate': 77,'much': 72, 
+	'must': 84, 'myself': 70, 'necessary': 67, "o'clock": 79, 'onself': 70,'ourselves': 82, 
+	'perceive': 82, 'perhaps': 82, 'receive': 86, 'receiving': 86, 'themselves': 86, 
+	'together': 82, 'yourself': 70, 'yourselves': 86}
+
+comp_cont_4 = {'conceiving': 71, 'declaring': 71, 'ourselves': 86, 'perceiving': 67, 
+	'perhaps': 72, 'receiving': 71, 'themselves': 83,'yourselves': 83}
+comp_cont_5 = {'ourselves': 83, 'perceiving': 86, }
+comp_cont_6 = {'perceiving': 71}
